@@ -1,12 +1,12 @@
 # python_cli
-Work in Progress. Scripting reads/writes to CSV files with PYthon.
+Work in Progress. Scripting reads/writes to CSV files with Python.
 
 Man-like description of how to use program.
 
 # This program was developed on macOS and a Windows equivalent was not available for testing. Instructions are directed towards Mac users but should be able to transfer to Windows and other OS’.
 
-•	To get started first download the file and unzip it if compressed. Open your terminal. You can open this several ways using spotlight search and typing ‘terminal’ or opening Finder and traveling through the following file path: ‘Applications>Utilities>Terminal’
-•	Once you have the terminal open you have to get to the directory with the files you previously downloaded. To do this use the Unix ‘cd’ command which is for Change Directory. For example, it might be by default in your ‘Downloads’ folder: ‘cd Downloads/’ should get you in there.
+•	To get started first download the file and unzip it if compressed. Open your terminal. You can open this several ways using spotlight search and typing ‘terminal’ or opening Finder and traveling through the following file path: ‘Applications>Utilities>Terminal’  <br />
+•	Once you have the terminal open you have to get to the directory with the files you previously downloaded. To do this use the Unix ‘cd’ command which is for Change Directory. For example, it might be by default in your ‘Downloads’ folder: ‘cd Downloads/’ should get you in there.  <br />
 •	Once there you can run the utility by running the following command in your terminal:
 ‘python3 main.py’ Python 3 must be installed.
 
